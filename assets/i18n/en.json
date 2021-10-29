@@ -1,0 +1,179 @@
+{
+  "navMenu": {
+    "industries": "Sectors",
+    "markets": "Markets",
+    "notes": "Notes",
+    "resources": "Resources",
+    "about": "About",
+    "logIn": "Sign In"
+  },
+
+  "subnav": {
+    "description" : "En : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa dolorem dolorum et iste laudantium nihil voluptatum? Cum laborum provident quis! Doloremque fugit ipsam molestias tenetur.",
+    "title": "National market watch system"
+  },
+
+  "home": {
+    "text1": "En : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci aliquid animi culpa dicta, distinctio dolores ducimus facilis in laboriosam minus modi nam neque nihil odit omnis, quo repellat repellendus voluptates voluptatibus! Animi, aperiam aspernatur at deleniti dolorum eaque eligendi enim error obcaecati porro qui quidem quod repellat similique sint?",
+    "text2": "En : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci aliquid animi culpa dicta, distinctio dolores ducimus facilis in laboriosam minus modi nam neque nihil odit omnis, quo repellat repellendus voluptates voluptatibus! Animi, aperiam aspernatur at deleniti dolorum eaque eligendi enim error obcaecati porro qui quidem quod repellat similique sint?"
+  },
+
+  "sectors": {
+    "title": "All sectors",
+    "search_results": "Result(s)",
+    "clear_filter": "Clear filter",
+    "filter": "Filter",
+    "All": "All",
+    "previous": "Previous",
+    "next": "Next"
+  },
+
+  "sector": {
+    "isSector": "No alerts are available for this sector",
+    "link": "All sectors",
+    "last_update": "Last update",
+    "description": "En: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam asperiores, consequuntur culpa eius eligendi enim eos esse excepturi, fugit id itaque laboriosam molestiae nam nesciunt nisi nobis nostrum obcaecati optio pariatur provident, quasi quibusdam rem sint vero voluptate! Asperiores atque dignissimos dolore illo impedit perferendis quia quod reiciendis rerum sit.",
+    "content": "Content",
+    "All": "All alerts",
+    "alerts": "Alerts",
+    "publish": "released on",
+    "followed_by": "Followed by",
+    "market": "Market(s)",
+    "source": "Source",
+    "previous": "Previous",
+    "next": "Next"
+  },
+
+  "markets": {
+    "title": "All markets",
+    "search_results": "Result(s)",
+    "clear_filter": "Clear filter",
+    "filter": "Filter",
+    "All": "All",
+    "previous": "Previous",
+    "next": "Next"
+  },
+
+  "market": {
+    "isMarket": "No alerts are available for this market",
+    "link": "All markets",
+    "last_update": "Last update",
+    "description": "En: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam asperiores, consequuntur culpa eius eligendi enim eos esse excepturi, fugit id itaque laboriosam molestiae nam nesciunt nisi nobis nostrum obcaecati optio pariatur provident, quasi quibusdam rem sint vero voluptate! Asperiores atque dignissimos dolore illo impedit perferendis quia quod reiciendis rerum sit.",
+    "content": "Content",
+    "All": "All alerts",
+    "alerts": "Alerts",
+    "publish": "released on",
+    "followed_by": "Followed by",
+    "market": "Market(s)",
+    "source": "Source",
+    "previous": "Previous",
+    "next": "Next"
+  },
+
+  "notes": {
+    "title": "All monitoring notes",
+    "search_results": "Result(s)",
+    "clear_filter": "Clear filter",
+    "filter": "Filter",
+    "All": "All",
+    "previous": "Previous",
+    "next": "Next"
+  },
+
+  "note": {
+    "isNote": "No monitoring notes are available for this sector",
+    "link": "All monitoring notes",
+    "last_update": "Last update",
+    "description": "En: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam asperiores, consequuntur culpa eius eligendi enim eos esse excepturi, fugit id itaque laboriosam molestiae nam nesciunt nisi nobis nostrum obcaecati optio pariatur provident, quasi quibusdam rem sint vero voluptate! Asperiores atque dignissimos dolore illo impedit perferendis quia quod reiciendis rerum sit.",
+    "content": "Content",
+    "All": "All monitoring notes",
+    "alerts": "Monitoring notes",
+    "publish": "released on",
+    "followed_by": "Followed by",
+    "market": "Market(s)",
+    "source": "Source",
+    "previous": "Previous",
+    "next": "Next"
+  },
+
+  "resources": {
+    "advanced": "Advanced search",
+    "title": "All resources",
+    "sectors": "Sectors",
+    "markets": "Markets",
+    "themes": "Type of alerts",
+    "sector": "Sector",
+    "market": "Market",
+    "theme": "Type of alert",
+    "clear": "Clear filter",
+    "begin": "Start date",
+    "end": "End date",
+    "date": "Date",
+    "search": "Search"
+  },
+
+  "about": {
+    "title": "About",
+    "tools": "About this tool"
+  },
+
+  "subscribe": {
+    "title": "Subscription",
+    "name": "Name",
+    "surname": "Surname",
+    "tel": "Phone",
+    "mail": "Email",
+    "sectors": "Sectors",
+    "markets": "Markets",
+    "themes": "Alerts type",
+    "signUp" : "Sign up",
+    "update": "Update",
+    "updateMessage": "If you wish to change your preferences, please enter your email address in the field below",
+    "sectorsSelect": "Select your sector(s)",
+    "selectedSectors": "Selected sector(s)",
+    "marketsSelect": "Select your market(s)",
+    "selectedMarkets": "Selected market(s)",
+    "themesSelect": "Select your alert(s)",
+    "selectedThemes": "Selected alert(s)",
+    "send": "Send"
+  },
+
+  "confirm": {
+    "confirmation": "A confirmation email has been sent to your email address. While waiting for confirmation, you will be redirected to the home page.",
+    "error-header": "Error",
+    "error": "Sorry, this email address is already in use."
+  },
+
+  "activation": {
+    "header": "Success",
+    "header-error": "Error",
+    "message": "Your subscription is being validated...",
+    "choose": "Choice of preferences",
+    "complete": "In order to complete your subscription, please select your preferences",
+    "error": "An error occurred while activating your account",
+    "done": "Your subscription has been successfully completed!",
+    "add": "Add"
+  },
+
+  "update": {
+    "header-success": "Success",
+    "header-error": "Error",
+    "loadingError": "Loading Error",
+    "success": "Your information has been successfully modified",
+    "error": "Modification error",
+    "update": "Update"
+  },
+
+  "footer": {
+    "publish": "Publish an alert",
+    "contact": "Contact us",
+    "subscribe": "Subscribe",
+    "connect": "Connect with MINCOMMERCE",
+    "mincommerce": "The MINCOMMERCE",
+    "plateforms": "Others plateforms",
+    "resources": "Resources",
+    "word_from_minister": "Word from Minister",
+    "cell": "studies and projects cell",
+    "monitoring": "monitoring team"
+  }
+}
